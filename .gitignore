@@ -1,0 +1,2 @@
+*.env
+.DS_Store # tired of those annoying macOS files stinking up your github?
